@@ -1,0 +1,15 @@
+.openapi-generator-ignore
+README.md
+pom.xml
+src/main/java/com/tutorial/codegen/OpenApiGeneratorApplication.java
+src/main/java/com/tutorial/codegen/RFC3339DateFormat.java
+src/main/java/com/tutorial/codegen/config/HomeController.java
+src/main/java/com/tutorial/codegen/config/SpringDocConfiguration.java
+src/main/java/com/tutorial/codegen/controllers/ApiUtil.java
+src/main/java/com/tutorial/codegen/controllers/PetsApi.java
+src/main/java/com/tutorial/codegen/controllers/PetsApiController.java
+src/main/java/com/tutorial/codegen/model/Error.java
+src/main/java/com/tutorial/codegen/model/Pet.java
+src/main/resources/application.properties
+src/main/resources/openapi.yaml
+src/test/java/com/tutorial/codegen/OpenApiGeneratorApplicationTests.java
